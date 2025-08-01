@@ -1,0 +1,10 @@
+numpy
+netCDF4
+xarray
+rasterio
+imageio
+scipy
+geopandas
+pyproj
+affine
+rioxarray
